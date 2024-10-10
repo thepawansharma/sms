@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thepawansharma/sms/static/css/main.f855e6bc.css",
+    "main.js": "/thepawansharma/sms/static/js/main.62280636.js",
+    "static/js/453.4a8cc65b.chunk.js": "/thepawansharma/sms/static/js/453.4a8cc65b.chunk.js",
+    "index.html": "/thepawansharma/sms/index.html",
+    "main.f855e6bc.css.map": "/thepawansharma/sms/static/css/main.f855e6bc.css.map",
+    "main.62280636.js.map": "/thepawansharma/sms/static/js/main.62280636.js.map",
+    "453.4a8cc65b.chunk.js.map": "/thepawansharma/sms/static/js/453.4a8cc65b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.62280636.js"
+  ]
+}
